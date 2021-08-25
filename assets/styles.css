@@ -420,6 +420,9 @@ th {
 }
 .Pokemon-generation-div div {
   border-top: 0.625rem solid #4992ca;
+  border-left: 0.0625rem solid #f7f7f7;
+    border-right: 0.0625rem solid #f7f7f7;
+    border-bottom: 0.0625rem solid #f7f7f7
 }
 .Pokemon-generation-div p {
   max-width: 21.875rem;
@@ -430,6 +433,7 @@ th {
   font-size: 1.875rem;
   margin-bottom: 1.25rem;
 }
+
 
 /* Input Section */
 .pokemon-input-section {
